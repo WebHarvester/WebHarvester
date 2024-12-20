@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tawhidu Islam
+### Hi there 👋, I'm Tawhidul Islam
 #### front-end developer skilled in HTML and CSS and Tailwind CSS
 ![front-end developer skilled in HTML and CSS and Tailwind CSS](https://media.licdn.com/dms/image/v2/D5616AQFA8MyQ1epNMg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734711412914?e=1740009600&v=beta&t=QNltDUmbLigFEaSr6ejE2RIXS-MLcmj_Jr1pAMtbMyc)
 
